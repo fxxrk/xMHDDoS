@@ -104,7 +104,7 @@ Our social's💻
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
+You can download it from [GitHub Releases](https://github.com/fxxrk/xMHDDoS/releases)
 
 ### Getting Started
 
@@ -137,14 +137,14 @@ pip install -r requirements.txt
 **One-Line Installing on Fresh VPS**
 
 ```shell script
-apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
+apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/fxxrk/xMHDDoS.git && cd MH* && pip3 install -r requirements.txt
 ```
 
 **Docker**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
-cd MHDDoS
+git clone https://github.com/fxxrk/xMHDDoS.git
+cd xMHDDoS
 docker compose build
 # you can use the built image directly by uncommenting one line in the dockercompose
 docker compose run -it --entrypoint /bin/bash mhddos
@@ -156,15 +156,4 @@ docker compose run -it --entrypoint /bin/bash mhddos
 [github issues]: https://github.com/MatrixTM/MHDDoS/issues 'enter'
 
 ---
-
-## Need a Cheap Server? 
-
-<a href="https://pfcloud.io/aff.php?aff=80"><img src="https://github.com/user-attachments/assets/172b3543-982b-450e-937d-3c4f84764a4f" width="728" alt="pfcloud"></a>
-#### You can buy an 10Gbps cheap server from [PFcloud Hosting](https://pfcloud.io/aff.php?aff=80) with crypto (Scan Allowed).
-
-
-
-
-<a href="https://zomro.com/vps?from=428115"><img src="https://i.postimg.cc/KcH7CG8b/vps.png" width="728" height="90" alt="zomro"></a>
-#### [Zomro Hosting](https://zomro.com/vps?from=428115) allows you to purchase an hourly server using crypto and completely anonymously.
 
